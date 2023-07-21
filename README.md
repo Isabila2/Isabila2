@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Isabila2
-- 👀 I’m interested in books and technology
+- 👀 I’m interested in books and technology.
 - 🌱 I’m currently learning systems development.
 - 📫 How to reach me: my e-mail - isabellatexeira7@gmail.com
+
 
 <!---
 Isabila2/Isabila2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
