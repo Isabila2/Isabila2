@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Isabila2
-- 👀 I’m interested in books and technology.
 - 🌱 I’m currently learning systems development.
 - 📫 How to reach me: my e-mail - isabellatexeira7@gmail.com
 
